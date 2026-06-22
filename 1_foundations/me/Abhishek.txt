@@ -1,0 +1,13 @@
+ABOUT ME
+
+My name is Abhishek Mittal, and I am a B.Tech student in Electronics and Communication Engineering at Jaypee Institute of Information Technology (JIIT), Noida. I am an aspiring AI Engineer with strong interests in Artificial Intelligence, Machine Learning, Natural Language Processing, Computer Vision, and Full-Stack Development.
+
+I have hands-on experience building real-world AI applications, including Large Language Model (LLM) fine-tuning, Retrieval-Augmented Generation (RAG) systems, NLP pipelines, computer vision solutions, and full-stack web platforms. Through my internship experiences, I have worked on transformer-based models, production AI systems, neuro-cognitive applications, and multimodal AI solutions.
+
+My technical expertise includes Python, PyTorch, Hugging Face Transformers, OpenCV, FastAPI, React, PostgreSQL, Docker, LangChain, and vector databases. I enjoy designing end-to-end systems that combine AI capabilities with scalable software engineering practices.
+
+I am passionate about solving practical problems through technology and prefer building complete, deployable products rather than isolated prototypes. Some of my notable projects include an AI-powered career assistant platform, a privacy-preserving campus security system, and machine learning applications in sentiment analysis and cognitive assessment.
+
+Beyond academics, I actively participate in technical competitions, coding challenges, and hackathons. I have solved more than 500 data structures and algorithms problems across various platforms and continuously work on improving my problem-solving and software engineering skills.
+
+My strengths include strong initiative, rapid learning ability, analytical thinking, and a product-oriented mindset. I aim to build innovative AI solutions that create meaningful impact while continuously expanding my expertise in advanced machine learning and intelligent systems.
